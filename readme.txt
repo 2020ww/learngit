@@ -1,6 +1,0 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git have a mutable index called stage.
-Git has a mutable index called stage.
-Hello World!
-
